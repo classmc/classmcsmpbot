@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Dołącz na naszego Discorda już teraz: https://discord-classmc.startit.fun",
-        "Ciiii... Nie mów nikomu, ale Ender Chesta masz pod /ec!!!",
-        "Już niedługo nowa edycja ClassMC Survival 2.0!!!"
+        "&9Dołącz na naszego Discorda już teraz: https://discord-classmc.startit.fun",
+        "&5Ciiii... Nie mów nikomu, ale Ender Chesta masz pod /ec!!!",
+        "&aJuż niedługo nowa edycja ClassMC Survival 2.0!!!"
       ]
     },
     "chat-log": true,
